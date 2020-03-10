@@ -1,3 +1,6 @@
+# This repo is for the following medium article:
+https://medium.com/@data.leon/django-for-data-scientists-deploy-a-machine-learning-model-with-django-and-heroku-a6919eb3f757
+
 # Deploy your model to Heroku
 
 ## Download this repository, then
