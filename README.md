@@ -2,11 +2,7 @@
 
 ## Download this repository, then
 
-    $ git init
-    $ git add -A
-    $ git commit -m "Initial commit"
-
-    $ heroku create
+    $ heroku create <YOUR-HEROKU-APPNAME>
     $ git push heroku master
 
 ### Now you should be able to visit the api
